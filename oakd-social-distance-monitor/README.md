@@ -1,5 +1,7 @@
 # Social Distance Monitoring using OpenCV AI Kit with Depth ( OAK-D )
 
+The code shared in this directory is for the blog post [Social Distance Monitoring With OAK-D](https://learnopencv.com/social-distance-monitoring-with-oak-d/).
+
 ## Prerequisites
 
 ```
